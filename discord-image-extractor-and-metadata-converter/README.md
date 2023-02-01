@@ -2,11 +2,10 @@
 
 A Python script to extract mainly image files from a Discord channel and convert the extracted images into a .csv file and a .json file with metadata.
 
-## Note
-This script was initially designed for working with [thirdweb](https://thirdweb.com/) NFT smart contracts.
+**This script was initially designed for working with [thirdweb](https://thirdweb.com/) NFT smart contracts.**
 
 ## Requirements
-- Python 3.x
+- python 3.x
 - argparse library
 - csv library
 - json library
