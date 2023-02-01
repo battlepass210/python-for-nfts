@@ -1,7 +1,7 @@
 import os
 import random
 
-def rename_and_randomize(start_num, end_num, collection_name, folder_path):
+def rename_and_randomize():
 
     while True:
         start_num = input("Starting Number: ")
